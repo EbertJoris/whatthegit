@@ -1,0 +1,28 @@
+Create repository: Git clone https://github.com/EbertJoris/WhatTheGitTutorial.git
+Create .gitignore: echo > .gitignore 
+Show status of local branch: git status
+Git stage files: git add .
+Show status again of local branch: git status
+Git commit initial: git commit -m "Initial commit"
+Show status again: clean working tree no changes
+Create develop branch: git checkout -b "develop"
+Push develop branch: git push -u origin develop
+show branches: git branch
+------ OPTIONAL -----
+Create a file in develop branch: echo "develop" > current_branch.txt
+Add and Commit changes: git add . -> git commit -m "Created a TXT file to show current branch"
+Checkout master branch: git checkout master
+Create a file in master branch: echo "master" > current_branch.txt
+Add and Commit changes: ^^--^^
+Show changes during checkout:
+------ END OPTIONAL -----
+Create a file: echo "" > current_branch.txt
+Add a feature to it: feature+1 (Please no bugs)
+Stage and commit changes: git add . -> git commit -m "Added a feature"
+Merge with develop branch: git checkout develop -> git merge feature-1
+Remove feature-1 branch: git branch -d feature-1
+Show branch list: git branch
+Push develop branch: git push
+Merge with develop to master: git checkout master -> git merge develop
+
+

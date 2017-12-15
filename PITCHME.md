@@ -5,7 +5,7 @@
 Note:
 Ask how many people use Git,
 
-----
+---
 
 ## We've all been here
 @title[Warm-Up-Specific]
