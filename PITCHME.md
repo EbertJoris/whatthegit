@@ -2,13 +2,10 @@
 ## <span style="color:#e49436">GITHUB</span>
 #### Version Control Repository Hosting
 
----
-@title[Warm-Up]
-## We've all been here
-![Image-Absolute](assets/warmup.png)
+Note:
+Ask how many people use Git,
 
-<span style="color:gray; font-size: 0.5em;">Do you see it?</span>
-+++
+----
 
 ## We've all been here
 @title[Warm-Up-Specific]
@@ -46,6 +43,10 @@ Sharing project, shame? Which version? Is it stable?
 ## Solution
 ##### Git & Github
 ![Image-Absolute](assets/git-and-github.jpg)
+
+Note:
+Creator of github: Tom Preston-Werner @2008
+
 ---
 
 @title[What-Is-Git]
@@ -81,3 +82,10 @@ Version Control - explain
 ## Let's dive in
 ![Image-Absolute](assets/octobiwan.jpg) <br/>
 <span style="color:gray; font-size: 0.5em;">@Octobiwan from GitHub </span>
+
+---
+
+@title[Conclusion]
+## Conclusion
+
+- 
