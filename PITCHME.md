@@ -45,5 +45,6 @@ Sharing project, shame? Which version? Is it stable?
 ##Solution
 @title[Solution]
 ![Image-Absolute](assets/git-and-github.jpg)
+---
 
 ## The End.
