@@ -35,7 +35,7 @@ Note:
 Sharing project, shame? Which version? Is it stable? 
 ---
 
-##Problems
+## Problems
 @title[Problems]
 
 - multiple versions
@@ -51,7 +51,21 @@ Sharing project, shame? Which version? Is it stable?
 ## What is git?
 
 ##### git is an open source, distributed **version control system** designed for speed and efficiency
+
 +++
+@title[What-are-the-benifits]
+## What are the benifits?
+
+- Time Efficient |
+- Easy sharing |
+- Private/Public repositories |
+- Easier Collaberation |
+- Version Control |
+
+Note:
+Version Control - explain
++++
+
 @title[What-does-it-do]
 ## How does it work, in short?
 
@@ -64,5 +78,5 @@ Sharing project, shame? Which version? Is it stable?
 
 @title[Demo]
 ## Let's dive in
-![Image-Absolute](assets/octobiwan.jpg)
+![Image-Absolute](assets/octobiwan.png)
 <span style="color:gray; font-size: 0.5em;">@Octobiwan from GitHub </span>
