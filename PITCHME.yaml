@@ -1,2 +1,2 @@
 theme : black
-theme-override : docs/css/PITCHME.css
+theme-override : assets/css/PITCHME.css
