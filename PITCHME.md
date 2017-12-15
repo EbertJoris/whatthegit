@@ -25,6 +25,25 @@ Have multiple versions of the same thing, it's obvious on the time when you crea
 ![Image-Absolute](assets/warmup-specific-same.gif)
 
 <span style="color:gray; font-size: 0.5em;">@James Franco from The Interview </span>
++++
+
+## Then it comes
+@title[Sharing-Development]
+![Image-Absolute](assets/share.png)
+
+Note:
+Sharing project, shame? Which version? Is it stable? 
 ---
+
+##Problems
+@title[Problems]
+
+*multiple versions
+
+*multiple contributors
+---
+##Solution
+@title[Solution]
+![Image-Absolute](assets/git-and-github.jpg)
 
 ## The End.
