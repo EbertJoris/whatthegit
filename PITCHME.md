@@ -38,13 +38,26 @@ Sharing project, shame? Which version? Is it stable?
 ##Problems
 @title[Problems]
 
-*multiple versions
-
-*multiple contributors
+-multiple versions
+-multiple contributors |
 ---
 ##Solution
 @title[Solution]
 ![Image-Absolute](assets/git-and-github.jpg)
 ---
 
+@title[What-Is-Git]
+##What is git?
+
+#####git is an open source, distributed **version control system** designed for speed and efficiency
++++
+@title[What-does-it-do]
+##How does it work, in short?
+
+-Branching 
+-Merging |
+-Commiting |
+-Pull & Push |
+
+---
 ## The End.
