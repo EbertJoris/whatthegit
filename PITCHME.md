@@ -1,6 +1,6 @@
 @title[Introduction]
-## GITHUB
-### Version Control Repository Hosting
+## <span style="color:#e49436">GITHUB</span>
+#### Version Control Repository Hosting
 
 ---
 @title[Warm-Up]
@@ -14,14 +14,17 @@
 @title[Warm-Up-Specific]
 ![Image-Absolute](assets/warmup-specific.png)
 
-<span style="color:gray; font-size: 0.5em;">Multiple iterations, multiple versions</span>
+<span style="color:gray; font-size: 0.5em;">Multiple iterations, multiple versions, what changed?</span>
+
+Note:
+Have multiple versions of the same thing, it's obvious on the time when you create it. After a while re-opening the folder you don't know what the difference is between the folders and how it all works.
 +++
 
 ## We've all been here
 @title[Warm-Up-Funny]
-![Image-Absolute](assets/warmup-specific-same.png)
+![Image-Absolute](assets/warmup-specific-same.gif)
 
-<span style="color:gray; font-size: 0.5em;">@</span>
+<span style="color:gray; font-size: 0.5em;">@James Franco from The Interview </span>
 ---
 
 ## The End.
