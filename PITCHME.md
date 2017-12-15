@@ -35,12 +35,13 @@ Note:
 Sharing project, shame? Which version? Is it stable? 
 ---
 
-## Problems
 @title[Problems]
+## Problems
 
 - multiple versions
 - multiple contributors |
 ---
+
 @title[Solution]
 ## Solution
 ##### Git & Github
@@ -51,8 +52,8 @@ Sharing project, shame? Which version? Is it stable?
 ## What is git?
 
 ##### git is an open source, distributed **version control system** designed for speed and efficiency
-
 +++
+
 @title[What-are-the-benifits]
 ## What are the benifits?
 
