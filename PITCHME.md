@@ -64,5 +64,5 @@ Sharing project, shame? Which version? Is it stable?
 
 @title[Demo]
 ## Let's dive in
-![Image-Absolute](assets/octobiwan.jpg&size=auto 90%)
+![Image-Absolute](assets/octobiwan.jpg)
 <span style="color:gray; font-size: 0.5em;">@Octobiwan from GitHub </span>
