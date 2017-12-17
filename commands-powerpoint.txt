@@ -5,6 +5,7 @@ Git stage files: git add .
 Show status again of local branch: git status
 Git commit initial: git commit -m "Initial commit"
 Show status again: clean working tree no changes
+Git push master branch to origin: git push -u origin master
 Create develop branch: git checkout -b "develop"
 Push develop branch: git push -u origin develop
 show branches: git branch

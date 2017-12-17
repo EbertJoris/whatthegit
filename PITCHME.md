@@ -88,4 +88,10 @@ Version Control - explain
 @title[Conclusion]
 ## Conclusion
 
-- 
+- Develop & Master branch
+- Commit changes to working tree
+- Merge features with develop
+- Push to remote repository
+
+<br/>
+<span style="color:gray; font-size: 0.5em;">Need any help? Contact us at @EbertJoris & @CedricSterckx (10$/h) </span>
